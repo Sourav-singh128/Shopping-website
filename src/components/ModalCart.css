@@ -1,0 +1,8 @@
+.imgBox {
+  display: flex;
+  width: 40%;
+}
+.textBox {
+  display: flex;
+  flex-direction: column;
+}
